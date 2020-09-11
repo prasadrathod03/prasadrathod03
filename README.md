@@ -22,4 +22,5 @@
 <a href=https://www.linkedin.com/in/ramavathdurgaprasad/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/ramavathdurgaprasad/" height="20" width="20" /></a>
 <a href=https://www.facebook.com/ramavath.durgaprasad target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="https://www.facebook.com/ramavath.durgaprasad" height="20" width="20" /></a>
 <a href=https://www.instagram.com/prasadrathod03/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="https://www.instagram.com/prasadrathod03/" height="20" width="20" /></a>
+<a href=https://www.youtube.com/channel/UCUVGoTHac3msklt9zdGJD6Q?view_as=subscriber/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="https://www.youtube.com/channel/UCUVGoTHac3msklt9zdGJD6Q?view_as=subscriber" height="20" width="20" /></a>
 </p>
