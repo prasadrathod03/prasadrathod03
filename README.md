@@ -1,13 +1,11 @@
 <p align="center"><img src="https://github.com/prasadrathod03/prasadrathod03/blob/master/rathodport.jpeg?raw=true" width="500" height="500"></p>
 
 <h1 align="center">Hi there, I'm Ramavath Durga Prasad</h1>
-<h3 align="center">A Computer Science Enthusiast</h3>
+<h3 align="center">Associate Consultent - Technology / Senior Software Engineer</h3>
 
--  I’m currently working in **Virtusa** as **Software Engineer**
+-  I’m currently working in **Virtusa** as **Associate Consultent - Technology**
 
--  I’m currently learning _ML and AI_
-
--  I’m looking to collaborate on **Various Projects**
+-  I’m looking for a company switch for **New technologies and project opportunities**
 
 -  Ask me about **anything, from tech to non-tech, if I can, I will surely lend a helping hand. I am always open to connecting people.**
 
